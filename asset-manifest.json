@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robot-reactlist/static/css/main.e290888d.chunk.css",
+    "main.js": "/robot-reactlist/static/js/main.c477bf96.chunk.js",
+    "main.js.map": "/robot-reactlist/static/js/main.c477bf96.chunk.js.map",
+    "runtime~main.js": "/robot-reactlist/static/js/runtime~main.ea906c6a.js",
+    "runtime~main.js.map": "/robot-reactlist/static/js/runtime~main.ea906c6a.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/robot-reactlist/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/robot-reactlist/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/robot-reactlist/index.html",
+    "precache-manifest.e5bdcd751385b3283313bf8e51d4aedf.js": "/robot-reactlist/precache-manifest.e5bdcd751385b3283313bf8e51d4aedf.js",
+    "service-worker.js": "/robot-reactlist/service-worker.js",
+    "static/css/main.e290888d.chunk.css.map": "/robot-reactlist/static/css/main.e290888d.chunk.css.map",
+    "static/media/logo.svg": "/robot-reactlist/static/media/logo.5d5d9eef.svg"
+  }
+}
